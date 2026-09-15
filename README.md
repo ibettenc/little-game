@@ -1,8 +1,8 @@
-*This project has been created as part of the 42 curriculum by **ibettenc**, **raantoin**.*
+*This project has been created by **Ivan Bettencourt***
 <div align="center">
 
-#   CUB3D
-> *A minimalist program to run a video game using basic 3D methods*
+#   <insert_title>
+> *A minimalist game with wolfenstein as inspiration*
 
 </div>
 
@@ -57,7 +57,7 @@ Raycasting :
 - https://lodev.org/cgtutor/raycasting.html
 - https://youtu.be/gYRrGTC7GtA?si=3Z-UvM0beglPsvET
 
-- MAN
+- man
 
 - This guide on Minilibx is where we found answers to most our questions on graphics, (https://harm-smits.github.io/42docs/libs/minilibx)
 - We used AI such as Claude mainly to understand the rendering process, help with debugging
@@ -67,6 +67,6 @@ Raycasting :
 
 <div align="center">
 
-Made with fun and pain at **42** — *ibettenc* & *raantoin*
+Made with fun and pain at home — *Ivan*
 
 </div>%     
